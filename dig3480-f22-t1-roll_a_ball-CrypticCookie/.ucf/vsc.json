@@ -1,0 +1,13 @@
+{
+    "config": {
+        "type": "unity",
+        "course": "dig3480",
+        "assignment": "Roll a Ball",
+        "slug": "dig3480-f22-t1-roll_a_ball",
+        "term": "f22",
+        "host": "https://cf.gaim.dev",
+        "gaim.vsix": "0.0.71",
+        "gaim.unity": "0.0.13",
+        "curBranch": "main"
+    }
+}
